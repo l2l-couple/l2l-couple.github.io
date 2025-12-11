@@ -2,7 +2,7 @@
 layout: post
 title:  "Inception Movie"
 author: john
-categories: [ Jekyll, tutorial ]
+categories: [ Jekyll, tutorial, 桃園]
 tags: [red, yellow, 桃園]
 image: assets/images/11.jpg
 description: "My review of Inception movie. Acting, plot and something else in this short description."
