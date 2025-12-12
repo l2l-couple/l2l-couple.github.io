@@ -19,12 +19,27 @@
             <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'width=550,height=435');return false;">
                 <i class="fab fa-linkedin-in"></i>
             </a>
-        </li>
-        <li class="ml-1 mr-1">
-            <a href="https://www.instagram.com/" target="_blank" onclick="window.open(this.href, 'instagram-share', 'width=550,height=435'); return false;">
-                <i class="fab fa-instagram"></i>
-            </a>
-        </li>
+        </li><li class="ml-1 mr-1">
+    <a href="#" onclick="copyToClipboard('{{ page.url | absolute_url }}'); alert('鏈接已複製，可以貼到 Instagram'); return false;">
+        <i class="fab fa-instagram"></i>
+    </a>
+</li>
+
+<script>
+function copyToClipboard(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+        return navigator.clipboard.writeText(text);
+    } else {
+        let textArea = document.createElement("textarea");
+        textArea.value = text;
+        document.body.appendChild(textArea);
+        textArea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textArea);
+    }
+}
+</script>
+
 
     </ul>
     {% if page.comments != false %}
