@@ -10,7 +10,6 @@ image: assets/images/20251213-beitou-thermal-valley-hug.png
 
 初冬的清晨，薄霧籠罩著北投的山巒，空氣裡夾雜著淡淡硫磺味，像是大地呼出的暖意。沿著蜿蜒的小徑走向溫泉旅館，遠遠便能聽見泉水在石縫間低語，蒸氣緩緩升起，映著晨光，如同一幅溫柔的水墨畫。此刻，心情也隨著熱氣慢慢沉澱，日常的喧囂似乎在一瞬間被隔絕，只剩下身體與心靈在泉水中慢慢舒展。
 <br>
-<br>
 <center>
   <img src="./../../assets/images/20251213-beitou-thermal-valley-koala-hug.png" style="width: 307px; height: 461px;">
 </center>
