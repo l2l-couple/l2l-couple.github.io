@@ -26,6 +26,5 @@ rating: 5
   <img src="./../../assets/images/20251206-korea-chicken.jpg">
 </center>
 <br>
-**Twozzim韓國燉雞-桃園同德店**
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.4140100463346!2d121.2945876!3d25.0200203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34681f0019f91865%3A0x9d9ea07538589d4!2zVHdvenppbemfk-Wci-eHiembni3moYPlnJLlkIzlvrflupc!5e0!3m2!1szh-TW!2stw!4v1765814446623!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 </iframe>
