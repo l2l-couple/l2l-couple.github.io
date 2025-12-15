@@ -6,7 +6,7 @@ categories: [Taoyuan]
 tags: [告白, 勇敢說愛, 交往第一天]
 image: assets/images/20251206-gift.jpg
 description: "終於鼓起勇氣說出心底的話，那一刻，她的微笑成了我最甜的回應——告白成功的感覺，原來比想像中更美好。"
-hidden: true
+hidden: false
 rating: 5
 ---
 
