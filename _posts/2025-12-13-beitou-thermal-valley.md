@@ -12,7 +12,7 @@ image: assets/images/20251213-beitou-thermal-valley-hug.png
 <br>
 <br>
 <center>
-  <img src="./../../assets/images/20251213-beitou-thermal-valley-koala-hug.png" style="width: 614px; height: 922px;">
+  <img src="./../../assets/images/20251213-beitou-thermal-valley-koala-hug.png" style="width: 307px; height: 461px;">
 </center>
 今天，我們漫步在北投溫泉街，踏入那神秘的地熱谷。空氣中偶爾飄來淡淡的硫磺氣息，宛如大地低語的獨特氣味，帶著一絲原始的野性。雲霧繚繞，泉水蒸氣在陽光下化作薄紗般的光影，整個景致像是一幅靜謐而夢幻的畫卷。我們在蒸氣裡穿行，感受熱氣裹挾的溫度與微微刺鼻的氣息，最後在這迷離的氛圍中留下了一張溫暖的擁抱照——光影交錯間，甜蜜悄悄溢滿了整個畫面。
 <br>
