@@ -13,8 +13,8 @@ permalink: /:title/
 
 # Authors
 authors:
-  L2L:
-    name: L2L
+  l2l:
+    name: l2l
     display_name: Lavender Lawrence
     gravatar: "assets/images/avatar.jpg"
     email: 20251206l2l@gmail.com
