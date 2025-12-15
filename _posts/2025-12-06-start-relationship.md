@@ -22,7 +22,7 @@ rating: 5
 <br>
 <br>
 
-告白後，我們共享了一頓特別的「告白餐」——韓式燉雞。紅醬的味道雖然樸實無華，但在告白的光影下，平凡的滋味也彷彿染上了甜蜜的色彩。每一口，都像在細細咀嚼我們的心跳與悸動，餐桌上的氣氛因笑語與心意而溫暖，讓這一天的記憶，悄悄被染成溫柔的金色。
+告白後，我們共享了一頓特別的「告白餐」—— 韓式燉雞。紅醬的味道雖然樸實無華，但在告白的光影下，平凡的滋味也彷彿染上了甜蜜的色彩。每一口，都像在細細咀嚼我們的心跳與悸動，餐桌上的氣氛因笑語與心意而溫暖，讓這一天的記憶，悄悄被染成溫柔的金色。
 <br>
 <br>
 <center>
@@ -30,5 +30,6 @@ rating: 5
 </center>
 <br>
 **Twozzim韓國燉雞-桃園同德店**
+<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.4140100463346!2d121.2945876!3d25.0200203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34681f0019f91865%3A0x9d9ea07538589d4!2zVHdvenppbemfk-Wci-eHiembni3moYPlnJLlkIzlvrflupc!5e0!3m2!1szh-TW!2stw!4v1765814446623!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
 </iframe>
