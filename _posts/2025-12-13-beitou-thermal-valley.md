@@ -7,6 +7,7 @@ tags: [北投, 地熱谷]
 image: assets/images/20251213-beitou-thermal-valley-hug.png
 ---
 
+
 <audio id="bgm" loop preload="auto">
   <source src="/assets/music/20251213-Beitou.mp3" type="audio/mpeg">
 </audio>
@@ -14,6 +15,8 @@ image: assets/images/20251213-beitou-thermal-valley-hug.png
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   const audio = document.getElementById('bgm');
+
+  audio.volume = 0.2;
 
   if (localStorage.getItem('allowMusic') === 'yes') {
     audio.play().catch(() => {});
@@ -30,6 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.addEventListener('touchstart', unlock);
 });
 </script>
+
 
 <p style="font-size: 12px; color: #888;">
   🎧 點擊畫面即可播放背景音樂
