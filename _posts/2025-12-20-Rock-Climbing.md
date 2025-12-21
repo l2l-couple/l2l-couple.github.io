@@ -3,7 +3,7 @@ layout: post
 title:  "攀岩日"
 author: l2l
 categories: [Taoyuan]
-tags: [攀岩、早午餐]
+tags: [攀岩, 早午餐]
 image: assets/images/20251220-rock-climbing.jpg
 ---
 
