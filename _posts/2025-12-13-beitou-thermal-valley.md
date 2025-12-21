@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "北投地熱谷"
+title:  "地熱谷"
 author: l2l
 categories: [Taipei]
 tags: [北投, 地熱谷]
