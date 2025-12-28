@@ -8,6 +8,7 @@ image: assets/images/20251227-gift.jpg
 ---
 
 
+
 <audio id="bgm" loop preload="auto">
   <source src="/assets/music/20251227-christmas.mp3" type="audio/mpeg">
 </audio>
@@ -40,7 +41,6 @@ document.addEventListener('DOMContentLoaded', () => {
 </p>
 
 
-今天，我們漫步北投溫泉街，走進神秘的地熱谷。淡淡硫磺氣息在雲霧間飄散，泉水蒸氣於陽光下化作薄紗般的光影，彷彿一幅靜謐夢幻的畫卷。我們穿行其間，感受熱氣的溫度，並在迷離光影中留下了一張溫暖的擁抱照 —— 甜蜜悄然滿溢其中。
 
 <table border="0" cellpadding="10">
   <tr>
