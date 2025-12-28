@@ -1,4 +1,4 @@
-<img width="960" height="732" alt="image" src="https://github.com/user-attachments/assets/8120aafc-3344-421d-adbf-e5b201684650" />---
+---
 layout: post
 title:  "聖誕節"
 author: l2l
