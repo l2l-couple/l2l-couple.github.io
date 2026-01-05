@@ -3,7 +3,7 @@ layout: post
 title:  "2026，新年的第一頓早午餐"
 author: l2l
 categories: [Taoyuan]
-tags: [新年第一餐, 早午餐, 麥當勞]
+tags: [早午餐, 麥當勞]
 image: assets/images/20260103-McDonladsBrunch.jpg
 ---
 
