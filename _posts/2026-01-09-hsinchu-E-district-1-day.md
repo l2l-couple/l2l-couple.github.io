@@ -48,35 +48,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 <center>
-  <table style="width:100%; border-collapse:collapse;">
-    <tr>
-      <td style="width:50%; text-align:center;">
-        <img src="./../../assets/images/20260110_Smilu.jpg" style="width:100%; height:280px; object-fit:cover;">
-        <p>第一站 西米露之家</p>
-      </td>
-      <td style="width:50%; text-align:center;">
-        <img src="./../../assets/images/20260110_DuckRice.jpg" style="width:100%; height:280px; object-fit:cover;">
-        <p>第二站 廟口鴨香飯與月老祈福</p>
-      </td>
-    </tr>
-  </table>
-  
-  
-  <table style="width:100%; border-collapse:collapse;">
-    <tr>
-      <td style="width:50%; text-align:center;">
-        <img src="./../../assets/images/20260110_Sweet.jpg" style="width:100%; height:280px; object-fit:cover;">
-        <p>第三站 糖葫蘆</p>
-      </td>
-      <td style="width:50%; text-align:center;">
-        <img src="./../../assets/images/20260110_Hippo.jpg" style="width:100%; height:280px; object-fit:cover;">
-        <p>第四站 新竹動物園</p>
-      </td>
-    </tr>
-  </table>
-  
+  <img src="./../../assets/images/20260110_Smilu.jpg">
   <br>
-
+  <img src="./../../assets/images/20260110_DuckRice.jpg">
+  <br>
+  <img src="./../../assets/images/20260110_Sweet.jpg">
+  <br>
+  <img src="./../../assets/images/20260110_Hippo.jpg">
+  <br>      
   <img src="./../../assets/images/20260110_HsinchuMochi.jpg">
 </center>
 
