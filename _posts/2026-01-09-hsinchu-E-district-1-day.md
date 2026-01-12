@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "新竹遊"
+title:  "新竹東區一日遊"
 author: l2l
 categories: [Hsinchu]
 tags: [動物園, 西米露, 麻糬]
