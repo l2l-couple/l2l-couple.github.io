@@ -47,36 +47,36 @@ document.addEventListener('DOMContentLoaded', () => {
 回程買麻糬的路上，意外經過有點破舊的新竹動物園，我們順道進去逛逛，一邊吃著糖葫蘆和蘋果糖，看著河馬懶洋洋地泡在水裡睡覺。一天結束時，雖然身體有些疲憊，但和寶一起回桃園的路上，我心裡很確定 —— 只要是和她在一起，再平凡的行程，都會成為值得珍藏的回憶。
 
 
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <td style="width:50%; text-align:center;">
-      <img src="./../../assets/images/20260110_Smilu.jpg" style="width:100%; height:280px; object-fit:cover;">
-      <p>第一站 西米露之家</p>
-    </td>
-    <td style="width:50%; text-align:center;">
-      <img src="./../../assets/images/20260110_DuckRice.jpg" style="width:100%; height:280px; object-fit:cover;">
-      <p>第二站 廟口鴨香飯與月老祈福</p>
-    </td>
-  </tr>
-</table>
-
-
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <td style="width:50%; text-align:center;">
-      <img src="./../../assets/images/20260110_Sweet.jpg" style="width:100%; height:280px; object-fit:cover;">
-      <p>第三站 糖葫蘆</p>
-    </td>
-    <td style="width:50%; text-align:center;">
-      <img src="./../../assets/images/20260110_Hippo.jpg" style="width:100%; height:280px; object-fit:cover;">
-      <p>第四站 新竹動物園</p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <center>
+  <table style="width:100%; border-collapse:collapse;">
+    <tr>
+      <td style="width:50%; text-align:center;">
+        <img src="./../../assets/images/20260110_Smilu.jpg" style="width:100%; height:280px; object-fit:cover;">
+        <p>第一站 西米露之家</p>
+      </td>
+      <td style="width:50%; text-align:center;">
+        <img src="./../../assets/images/20260110_DuckRice.jpg" style="width:100%; height:280px; object-fit:cover;">
+        <p>第二站 廟口鴨香飯與月老祈福</p>
+      </td>
+    </tr>
+  </table>
+  
+  
+  <table style="width:100%; border-collapse:collapse;">
+    <tr>
+      <td style="width:50%; text-align:center;">
+        <img src="./../../assets/images/20260110_Sweet.jpg" style="width:100%; height:280px; object-fit:cover;">
+        <p>第三站 糖葫蘆</p>
+      </td>
+      <td style="width:50%; text-align:center;">
+        <img src="./../../assets/images/20260110_Hippo.jpg" style="width:100%; height:280px; object-fit:cover;">
+        <p>第四站 新竹動物園</p>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+
   <img src="./../../assets/images/20260110_HsinchuMochi.jpg">
 </center>
 
