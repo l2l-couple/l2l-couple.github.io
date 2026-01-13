@@ -10,7 +10,7 @@ comments: true
 
 
 <audio id="bgm" loop preload="auto">
-  <source src="./assets/music/about.mp3" type="audio/mpeg">
+  <source src="../../assets/music/about.mp3" type="audio/mpeg">
 </audio>
 
 <script>
