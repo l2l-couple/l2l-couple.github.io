@@ -46,21 +46,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
 首先，我們在桃園享用了一份 IG 上推薦的竹碳烤吐司，搭配醬油生雞蛋，味道十分美味。不僅如此，我們還點了香濃的咖啡和熱可可，讓這個寒冷的天氣也變得暖意十足。
 
+<center>
 <div style="max-width:600px; margin:0 auto; display:grid; grid-template-areas:'top top' 'left right'; gap:10px;">
-  <div style="grid-area:top;"><img src="./../../assets/images/20260208_Toast.jpg" style="width:100%; display:block;"></div>
+  <div style="grid-area:top;"><img src="./../../assets/images/20260208_Toast.png" style="width:100%; display:block;"></div>
   <div style="grid-area:left;"><img src="./../../assets/images/20260208_Coffee.jpg" style="width:100%; display:block;"></div>
   <div style="grid-area:right;"><img src="./../../assets/images/20260208_CoCo.jpg" style="width:100%; display:block;"></div>
 </div>
+</center>
 
 
 
 接著，我們前往新北板橋，品嘗了好吃又平價的糖葫蘆，以及杏仁口味的綿綿冰。每一口都充滿甜美的幸福感，寶今天也玩得十分開心。整個約會充滿了美食與快樂的回憶，真是令人難忘的一天。
 
+
+
+<center>
 <div style="display:flex; gap:10px; max-width:600px; margin:0 auto;">
   <img src="./../../assets/images/20260208_CandyLolipop.jpg" style="width:50%; display:block;">
   <img src="./../../assets/images/20260208_CandyLolipop.jpg"  style="width:50%; display:block;">
 </div>
-
+</center>
 
 
 
