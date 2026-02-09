@@ -59,8 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </table>
 
 
-緊接著我們去逛西門町，挑選適合我和寶的帥氣與美麗穿著。還吃了網路推薦的
-<span class="spoiler"> Potato Corner 薯條</span>，我們點了濃郁的起司口味。之後我帶寶去吃我推薦的成都楊桃冰，一起享用酸甜可口的星星水果，真的很好吃！
+緊接著我們去逛西門町，挑選適合我和寶的帥氣與美麗穿著。還吃了網路推薦的 <span class="spoiler"> Potato Corner 薯條</span>，我們點了濃郁的起司口味。之後我帶寶去吃我推薦的成都楊桃冰，一起享用酸甜可口的星星水果，真的很好吃！
 
 
 <img src="./../../assets/images/20260131_french_fries.jpg">
