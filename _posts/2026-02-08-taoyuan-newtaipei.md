@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
 <center>
 <div style="display:flex; gap:10px; max-width:600px; margin:0 auto;">
   <img src="./../../assets/images/20260208_CandyLolipop.jpg" style="width:50%; display:block;">
-  <img src="./../../assets/images/20260208_CandyLolipop.jpg"  style="width:50%; display:block;">
+  <img src="./../../assets/images/20260208_Ice.jpg"  style="width:50%; display:block;">
 </div>
 </center>
 
