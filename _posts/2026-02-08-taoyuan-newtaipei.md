@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
 今天和寶一起玩了兩個縣市 —— 桃園與新北。
 
 
-首先，我們在桃園享用了一份 IG 上推薦的竹碳烤吐司，搭配醬油生雞蛋，味道十分美味。不僅如此，我們還點了香濃的咖啡和熱可可，讓這個寒冷的天氣也變得暖意十足。
+首先，我們在桃園享用了一份 IG 上推薦的竹碳烤咖椰吐司，搭配醬油生雞蛋，味道十分美味。不僅如此，我們還點了香濃的咖啡和熱可可，讓這個寒冷的天氣也變得暖意十足。
 
 <center>
 <div style="max-width:600px; margin:0 auto; display:grid; grid-template-areas:'top top' 'left right'; gap:10px;">
