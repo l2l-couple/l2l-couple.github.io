@@ -49,6 +49,20 @@ document.addEventListener('DOMContentLoaded', () => {
 
 今天第一次過情人節，真的又新鮮又開心。我偷偷準備了網路上推薦的青焰炭火熟成牛排，結果牛排本身有點普通（笑），但海鮮意外地好吃；我點了豪華海鮮，她點了極嫩菲力牛排。沙拉吧中規中矩，裝潢走簡約風，整體大概 7～8 / 10 分。接著一起吃了開心果冰淇淋配杜拜風情巧克力，最後用一杯好喝的躺平綠豆沙牛奶，替這一天畫下句點。
 
+
+<img src="./../../assets/images/20260214_Steak.jpg" style="width:48%; display:inline-block; margin-right:2%;">
+<img src="./../../assets/images/20260214_Shrimp.jpg" style="width:48%; display:inline-block;">
+
+
+<img src="./../../assets/images/20260214_SteakStore.jpg" style="width:48%; display:inline-block; margin-right:2%;">
+<img src="./../../assets/images/20260214_Creamia.jpg" style="width:48%; display:inline-block;">
+
+
+<center>
+  <img src="./../../assets/images/20260214_GreenBean.jpg">
+</center>
+
+
 **第一次過情人節，我不太會說情話，但我會把妳放在心上。今天如此，以後也是。**
 
 
