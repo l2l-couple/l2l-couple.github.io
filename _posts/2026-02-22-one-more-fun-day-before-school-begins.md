@@ -43,21 +43,21 @@ document.addEventListener('DOMContentLoaded', () => {
 今天，我們一起展開了一場充滿笑聲與心動的浪漫約會。
 一開始牽著手前往[野趣森林](https://maps.app.goo.gl/5kaRZqrxVf1ykqYD7)，在綠意環繞的空間裡，盡情體驗各種趣味十足的遊樂設施。每一次的尖叫、每一聲笑聲，都讓彼此的距離悄悄拉近，彷彿時間只為我們慢了下來。
 
+
+
+<center>
+  <img src="./../../assets/images/20260222_Sandwich.jpg" style="width: 60%; height: auto;">
+</center>
+
 接著，我們轉往[XPark](https://maps.app.goo.gl/9tALvFqWpJQQigWX9)，走進夢幻的海底世界。藍色光影在四周流動，各式各樣可愛的海洋生物悠游其中，你一邊驚呼、一邊露出孩子般的笑容，那畫面溫柔得讓人不自覺想多看幾眼。在靜靜欣賞水族箱的片刻，我感覺這不只是一趟約會，更是一段被珍藏的回憶。
 
 這一天沒有刻意的安排，卻因為有你在身旁，而變得格外浪漫、剛剛好。
 
 
-<br>
+
 
 <center>
-  <img src="./../../assets/images/20260222_Sandwich.jpg" style="width: 60%; height: auto;">
-
-  <br>
-  <br>
-
-  <img src="./../../assets/images/20260222_JellyFish.jpg" style="width: 60%; height: auto;">
-  
+  <img src="./../../assets/images/20260222_JellyFish.jpg" style="width: 60%; height: auto;">  
 </center>
 
 <br>
