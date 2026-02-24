@@ -47,10 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
   <img src="./../../assets/images/20260220_Fireworks-RuiChiu.jpg" style="width: 60%; height: auto;">
 </center>
 
-希望未來我們能像剛剛仙女棒的火花一樣，不張揚、卻溫柔地一起微微放閃。也在彼此身邊，慢慢照亮對方的世界 💕
 
+<br>
 
-
-<center>
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1452.0731996824093!2d121.31877606279616!3d24.968951274459346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34681f4d0b45b4e7%3A0xb1accd0953f431bd!2z5YWr5b635Y2A5aSn5rmz55CD5aC0KOWci-S6jOapi-S4iyk!5e0!3m2!1szh-TW!2stw!4v1771918557459!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</center>
+**希望未來我們能像剛剛仙女棒的火花一樣，不張揚、卻溫柔地一起微微放閃。也在彼此身邊，慢慢照亮對方的世界 💕**
