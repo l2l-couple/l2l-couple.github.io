@@ -46,6 +46,9 @@ document.addEventListener('DOMContentLoaded', () => {
   </div>
 </div>
 
+
+<br>
+
 看著妳專注又開心的樣子，我自己也覺得好溫暖 ❤️
 
 最後一起把蛋糕拼盤完成時，那種「我們一起做成一件事」的感覺真的很棒，好像每次和妳一起的時光都能變成我們的甜蜜回憶 🥰
@@ -54,6 +57,8 @@ document.addEventListener('DOMContentLoaded', () => {
   <img src="./../../assets/images/20260301_Cake.jpg" class="flash">
   <img src="./../../assets/images/20260301_Cake_Slice.jpg" class="flash">
 </div>
+
+<br>
 
 以後還想跟寶寶一起做更多這種小事，把每一次小幸福都累積成我們的回憶 💛
 
