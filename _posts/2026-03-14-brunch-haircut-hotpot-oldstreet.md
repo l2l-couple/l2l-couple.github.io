@@ -94,6 +94,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
 </center>
 
+<br>
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3618.2207247447454!2d121.27956757606911!3d24.924549542688634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346819bb3daa47cf%3A0x9a3522e15677ee48!2zTW9tZW50IOaZguWIu-WSluWVoeWFq-W-t-W6l--8iOicnOezluWQkOWPuOOAgee-qeW8j-aWmeeQhuOAgee-juW8j-WltuaYlOWwiOizo--8iQ!5e0!3m2!1sen!2stw!4v1773928512286!5m2!1sen!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -125,6 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </center>
 
 
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.8511210705697!2d121.29772197607099!3d25.005174339450292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34681f2882e596b1%3A0x8c2ccddebe0e646f!2z5pet6IuR5bGF6YWS5bGLIOWkp-ecvumFkuWgtA!5e0!3m2!1szh-TW!2stw!4v1773928863752!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
