@@ -131,9 +131,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 <!-- ===== Hotpot Carousel ===== -->
 <center>
-  <div class="carousel">
     <img src="./../../assets/images/20260315_hotpot.jpg" alt="火鍋">
-  </div>
 </center>
 
 騎車的過程更是充滿插曲，我們一路迷路、繞圈圈，完全沒有在按計畫走，反而變成最有趣的一段回憶，真的笑到不行。
