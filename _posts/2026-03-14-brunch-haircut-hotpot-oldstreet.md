@@ -52,13 +52,14 @@ document.addEventListener('DOMContentLoaded', () => {
   overflow: hidden;
   margin: auto;
   border-radius: 12px;
+  background: #000; /* 空白會是黑底（比較好看） */
 }
 
 .carousel img {
   position: absolute;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain; /* ⭐ 重點：完整顯示 */
   opacity: 0;
   animation: fade 12.5s infinite;
 }
@@ -78,6 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
   100% { opacity: 0; }
 }
 </style>
+
 
 
 <center>
@@ -127,4 +129,19 @@ document.addEventListener('DOMContentLoaded', () => {
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.8511210705697!2d121.29772197607099!3d25.005174339450292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34681f2882e596b1%3A0x8c2ccddebe0e646f!2z5pet6IuR5bGF6YWS5bGLIOWkp-ecvumFkuWgtA!5e0!3m2!1szh-TW!2stw!4v1773928863752!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+
+
+到了隔天一早，也就是 15 號，我們一起動手做了一鍋超美味的火鍋，吃得飽飽又滿足。
+吃完之後，我們就開始今天的約會行程，到處逛街、隨意走走。
+
+<center>
+  <img src="./../../assets/images/20260315_hotpot.jpg">
+</center>
+
+騎車的過程更是充滿插曲，我們一路迷路、繞圈圈，完全沒有在按計畫走，反而變成最有趣的一段回憶，真的笑到不行。
+
+最後，我們一起去剪了頭髮，寶直接大變身，變成氣質滿分的美少女，真的有夠驚艷（笑）。
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17782.58052409306!2d121.31600236409213!3d24.965296319810342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34681f54363b72e7%3A0x86471255865687f7!2zUGlrb-a3seWknOa0l-mrruaymem-jS_liarpq64v54eZ6auuL-afk-mrrg!5e0!3m2!1sen!2stw!4v1773929355225!5m2!1sen!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
