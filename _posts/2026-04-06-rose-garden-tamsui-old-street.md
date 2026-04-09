@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
 我們來到淡水，海風輕輕吹著，帶著一點鹹鹹的味道。我們一起分享那份超大份的綜合冰淇淋，一口一口交換著喜歡的口味，她笑著說好吃的時候，我只覺得，比冰淇淋更甜的是她的笑容。
 
 <center>
-  <img src="./../../assets/images/20260406_tamsui.jpg" style="width: 60%; height: auto;">
+  <img src="./../../assets/images/20260406_tamsui.jpg" style="height: 60%; width: auto;">
 </center>
 
 
