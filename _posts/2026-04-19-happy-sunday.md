@@ -37,7 +37,6 @@ document.addEventListener('DOMContentLoaded', () => {
   🎧 點擊畫面即可播放背景音樂
 </p>
 
----
 
 <style>
 .carousel {
@@ -62,14 +61,12 @@ document.addEventListener('DOMContentLoaded', () => {
   animation: fade 12.5s infinite;
 }
 
-/* 每張圖片延遲時間 (5 張示例，每張停 2.5s) */
 .carousel img:nth-child(1) { animation-delay: 0s; }
 .carousel img:nth-child(2) { animation-delay: 2.5s; }
 .carousel img:nth-child(3) { animation-delay: 5s; }
 .carousel img:nth-child(4) { animation-delay: 7.5s; }
 .carousel img:nth-child(5) { animation-delay: 10s; }
 
-/* ===== 漸變動畫 ===== */
 @keyframes fade {
   0%   { opacity: 0; }
   4%   { opacity: 1; }
@@ -88,8 +85,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 午餐我們去吃港式料理，也同樣很滿足。花生醬吐司搭配奶油的鹹甜口感，再配上濃郁的花生飲品，以及特別的檸檬乾可樂，整體味道很有記憶點。
-
-<br>
 
 <div style="display: flex; justify-content: center; gap: 12px; align-items: center;">
     <img src="./../../assets/images/20260419_hk_drink.jpg" 
@@ -110,15 +105,12 @@ document.addEventListener('DOMContentLoaded', () => {
   </div>
 </center>
 
-<br>
-
 最後我們吃了孔雀餅乾冰淇淋和新出的小美冰淇淋口味，結果意外覺得小美反而更好吃，哈哈。
-
-<br>
 
 <center>
   <img src="./../../assets/images/20260419_hk_ice_cream.jpg">
 </center>
 
+<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3616.2664563635453!2d121.30615322468758!3d24.99106032054271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34681efd2574a111%3A0xcb67db3b225f2c72!2z576O55Sf6aSQ5a6kIOahg-WckuS4reiPr-W6l--8iOahg-Wckua4r-W8j-mjsuiMtuaOqOiWpu-8j-ahg-WckuWNgOa4r-W8j-m7nuW_g-S4i-WNiOiMtu-8j-ahg-WckuW_heWQg-e-jumjn-iBmumkkOmkkOW7s--8iQ!5e0!3m2!1szh-TW!2stw!4v1776695278721!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
