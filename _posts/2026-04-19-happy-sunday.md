@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
 </center>
 
 
-午餐我們去吃港式料理，也同樣很滿足。花生醬吐司搭配奶油的鹹甜口感，再配上濃郁的花生飲品，以及特別的檸檬乾可樂，整體味道很有記憶點。
+午餐我們去吃港式料理，也同樣很滿足。花生醬吐司搭配奶油的鹹甜口感，再配上濃郁的花生飲品，以及特別的檸檬鹽味可樂，整體味道很有記憶點。
 
 <div style="display: flex; justify-content: center; gap: 12px; align-items: center;">
     <img src="./../../assets/images/20260419_hk_drink.jpg" 
