@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', () => {
   24%  { opacity: 0; }
   100% { opacity: 0; }
 }
-</style>l
+</style>
 
 
 今天一早，寶喝了我準備的養護膝蓋能量雞湯，我則吃著她親手做的蜂蜜奶油麻糬吐司當早餐，真的很好吃。
