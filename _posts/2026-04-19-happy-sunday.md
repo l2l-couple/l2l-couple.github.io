@@ -2,7 +2,7 @@
 layout: post
 title:  "好吃早餐午餐、趣味的下午時光"
 author: l2l
-categories: [桃園]
+categories: [Taoyuan]
 tags: [蜂蜜奶油麻糬吐司, 港式料理, 孔雀餅乾, 小美冰淇淋]
 image: assets/images/20260419_draw4.png
 ---
