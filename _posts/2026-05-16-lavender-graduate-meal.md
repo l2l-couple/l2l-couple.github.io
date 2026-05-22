@@ -80,15 +80,23 @@ document.addEventListener('DOMContentLoaded', () => {
 </style>
 
 今天帶愛寶去板橋慶祝統測考完 還有準備迎接畢業這件事😆❤️
+<br>
 我們先去吃了一家看起來超厲害的舒芙蕾🤣 結果外表很強 味道倒是意外地普通哈哈哈
-還配了甜到很誇張的棉花糖拿鐵跟開心果口味咖啡😵‍💫❤️
+<br>還配了甜到很誇張的棉花糖拿鐵跟開心果口味咖啡😵‍💫❤️
+<br>
 我邊喝邊想說「喔買尬 這甜度是在考驗人類嗎🤣」
+<br>
 但看到寶寶在旁邊開開心心的樣子 感覺好像吃什麼都變得有趣了😌❤️
+<br>
 
 後面我們又跑去附近的湯姆熊玩🥺
+<br>
 結果寶寶運氣真的超好🤣 有一台按指定秒數可以拿 **500 枚代幣**的機台 **寶居然一次就精準按到**😵‍💫❤️
+<br>
 後面我們就拿著那 500 枚代幣加上原本換的代幣一起玩 整個過程都鬧鬧笑笑的😆❤️
+<br>
 雖然只是很簡單的一天 但我其實很喜歡這種感覺🥺
+<br>
 陪著妳吃東西、亂聊天、一起玩幼稚的小遊戲 感覺這些慢慢累積起來 都會變成我們以後很重要的回憶😌❤️
 
 
@@ -96,11 +104,11 @@ document.addEventListener('DOMContentLoaded', () => {
   <table>
     <tr>
       <td><img src="./../../assets/images/20260516_cake.jpg" width="300"></td>
-      <td><img src="./../../assets/images/20260516_cake1.jpg" width="300"></td>
+      <td><img src="./../../assets/images/20260516_cake2.jpg" width="300"></td>
     </tr>
     <tr>
-      <td><img src="./../../assets/images/20260516_cake2.jpg" width="300"></td>
       <td><img src="./../../assets/images/20260516_cake3.jpg" width="300"></td>
+      <td><img src="./../../assets/images/20260516_cake4.jpg" width="300"></td>
     </tr>
   </table>
 </center>
