@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATM 快速搜尋雷達</title>
+    <style>
+        :root {
+            --primary-color: #059669;
+            --bg-color: #f0fdf4;
+            --card-bg: #ffffff;
+            --text-color: #1f2937;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 500px;
+            background: var(--card-bg);
+            padding: 24px;
+            border-radius: 16px;
+            box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 8px;
+            color: var(--primary-color);
+        }
+
+        p.subtitle {
+            text-align: center;
+            color: #4b5563;
+            font-size: 14px;
+            margin-bottom: 24px;
+        }
+
+        .search-box {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            font-size: 14px;
+        }
+
+        select {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #d1d5db;
+            border-radius: 8px;
+            font-size: 16px;
+            background-color: #fff;
+            outline: none;
+        }
+
+        .btn {
+            width: 100%;
+            padding: 14px;
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            margin-bottom: 12px;
+        }
+
+        .btn:hover {
+            background-color: #047857;
+        }
+
+        .status-msg {
+            font-size: 13px;
+            text-align: center;
+            color: #6b7280;
+            min-height: 20px;
+            margin-bottom: 15px;
+        }
+
+        .quick-tags {
+            margin-top: 20px;
+            border-top: 1px dashed #e5e7eb;
+            padding-top: 20px;
+        }
+
+        .tags-title {
+            font-size: 13px;
+            color: #4b5563;
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .tags-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .tag {
+            padding: 10px;
+            background: #f3f4f6;
+            border: 1px solid #e5e7eb;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        .tag:hover {
+            background: #e5e7eb;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>ATM 據點地圖導航</h1>
+    <p class="subtitle">自動獲取您的 GPS 座標，精確鎖定周邊 ATM</p>
+
+    <div class="search-box">
+        <label for="bankSelect">選擇欲查詢的銀行</label>
+        <select id="bankSelect">
+            <option value="中國信託">中國信託</option>
+            <option value="國泰世華">國泰世華</option>
+            <option value="台新銀行">台新銀行</option>
+            <option value="中華郵政">中華郵政</option>
+            <option value="玉山銀行">玉山銀行</option>
+            <option value="台北富邦">台北富邦</option>
+            <option value="臺灣銀行">臺灣銀行</option>
+        </select>
+    </div>
+
+    <button class="btn" onclick="startRadarSearch()">📡 啟用 GPS 定位功能，並搜尋方圓三公里內之 ATM 位置</button>
+    
+    <div id="status" class="status-msg">提示：點擊按鈕時請允許瀏覽器獲取「位置權限」</div>
+
+    <div class="quick-tags">
+        <div class="tags-title">超商快捷雷達（自動鎖定周邊）</div>
+        <div class="tags-grid">
+            <div class="tag" onclick="startRadarSearch('7-11 中國信託 ATM')">🏪 附近 7-11 中國信托</div>
+            <div class="tag" onclick="quickRadarSearch('全家 台新 ATM')">🏪 附近全家台新</div>
+            <div class="tag" onclick="quickRadarSearch('全家 國泰 ATM')">🏪 附近萊爾富國泰</div>
+            <div class="tag" onclick="quickRadarSearch('捷運站 ATM')">🚇 附近捷運 ATM</div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function startRadarSearch() {
+        const bank = document.getElementById('bankSelect').value;
+        executeSearch(bank + " ATM");
+    }
+
+    function quickRadarSearch(keyword) {
+        executeSearch(keyword);
+    }
+
+    function executeSearch(keyword) {
+        const statusText = document.getElementById('status');
+        
+        if (!navigator.geolocation) {
+            statusText.innerText = "您的瀏覽器不支援 GPS 定位，將直接開啟地圖。";
+            statusText.style.color = "#dc2626";
+            openMapWithoutGPS(keyword);
+            return;
+        }
+
+        statusText.innerText = "正在精確鎖定您的位置...";
+        statusText.style.color = "#2563eb";
+
+        navigator.geolocation.getCurrentPosition(
+            (position) => {
+                const lat = position.coords.latitude;
+                const lng = position.coords.longitude;
+                statusText.innerText = "定位成功！正在開啟方圓 3 公里地圖...";
+                statusText.style.color = "#059669";
+
+                const encodedKeyword = encodeURIComponent(keyword);
+                const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodedKeyword}&center=${lat},${lng}&zoom=14`;
+                
+                setTimeout(() => {
+                    window.open(mapUrl, '_blank');
+                }, 500);
+            },
+            (error) => {
+                statusText.innerText = "無法獲取精確定位 (可能未開啟權限)，已改用一般範圍搜尋。";
+                statusText.style.color = "#d97706";
+                openMapWithoutGPS(keyword);
+            },
+            {
+                enableHighAccuracy: true,
+                timeout: 5000,      
+                maximumAge: 0
+            }
+        );
+    }
+
+    function openMapWithoutGPS(keyword) {
+        const encodedKeyword = encodeURIComponent(keyword);
+        const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodedKeyword}&zoom=14`;
+        window.open(mapUrl, '_blank');
+    }
+</script>
+
+</body>
+</html>
