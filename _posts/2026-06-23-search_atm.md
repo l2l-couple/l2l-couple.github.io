@@ -27,9 +27,9 @@ rating: 5
 | **臺灣銀行** | [![搜尋](https://img.shields.io/badge/📍_點我搜尋-臺灣銀行_ATM-b45309?style=for-the-badge)](https://www.google.com/maps/search/?api=1&query=%E8%87%BA%E7%81%A3%E9%8A%80%E8%A1%8C+ATM&zoom=14) |
 
 ### 🏪 超商/特定地點快捷雷達
-* 🏪 **7-11 (中信 ATM)**：[[👉 點我雷達搜尋]](https://www.google.com/maps/search/?api=1&query=7--11+%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%92+ATM&zoom=14)
-* 🏪 **全家 (台新 ATM)**：[[👉 點我雷達搜尋]](https://www.google.com/maps/search/?api=1&query=%E5%85%A8%E5%AE%B6+%E5%AF%A5%E6%96%B0+ATM&zoom=14)
-* 🏪 **全家 (國泰 ATM)**：[[👉 點我雷達搜尋]](https://www.google.com/maps/search/?api=1&query=%E5%85%A8%E5%AE%B6+%E5%9C%8B%E6%B3%B0+ATM&zoom=14)
-* 🚇 **捷運站內 ATM**：[[👉 點我雷達搜尋]](https://www.google.com/maps/search/?api=1&query=%E6%8D%B7%E9%81%8B%E7%AB%99+ATM&zoom=14)
+* 🏪 **7-11 (中信 ATM)**：[[👉 點我搜尋]](https://www.google.com/maps/search/?api=1&query=7--11+%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%92+ATM&zoom=14)
+* 🏪 **全家 (台新 ATM)**：[[👉 點我搜尋]](https://www.google.com/maps/search/?api=1&query=%E5%85%A8%E5%AE%B6+%E5%AF%A5%E6%96%B0+ATM&zoom=14)
+* 🏪 **全家 (國泰 ATM)**：[[👉 點我搜尋]](https://www.google.com/maps/search/?api=1&query=%E5%85%A8%E5%AE%B6+%E5%9C%8B%E6%B3%B0+ATM&zoom=14)
+* 🚇 **捷運站內 ATM**：[[👉 點我搜尋]](https://www.google.com/maps/search/?api=1&query=%E6%8D%B7%E9%81%8B%E7%AB%99+ATM&zoom=14)
 
 💡 **提示**：點擊後若瀏覽器或手機跳出「允許存取目前位置」，請點選允許，Google 地圖便會自動以您為中心，顯示方圓 3 公里內的 ATM 據點。
