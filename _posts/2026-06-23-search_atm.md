@@ -33,4 +33,4 @@ rating: 5
 * 🏪 **全家 (國泰 ATM)**：[[👉 點我雷達搜尋]](https://www.google.com/maps/search/?api=1&query=%E5%85%A8%E5%AE%B6+%E5%9C%8B%E6%B3%B0+ATM&zoom=14)
 * 🚇 **捷運站內 ATM**：[[👉 點我雷達搜尋]](https://www.google.com/maps/search/?api=1&query=%E6%8D%B7%E9%81%8B%E7%AB%99+ATM&zoom=14)
 
-> 💡 **提示**：點擊後若瀏覽器或手機跳出「允許存取目前位置」，請點選允許，Google 地圖便會自動以您為中心，顯示方圓 3 公里內的 ATM 據點。
+💡 **提示**：點擊後若瀏覽器或手機跳出「允許存取目前位置」，請點選允許，Google 地圖便會自動以您為中心，顯示方圓 3 公里內的 ATM 據點。
