@@ -4,7 +4,7 @@ title:  "GPS 搜尋方圓三公里內之 ATM 位置"
 author: l2l
 categories: [Taiwan]
 tags: [GPS, Search, ATM]
-image: assets/images/20251206-gift.jpg
+image: assets/images/20260623-search_atm.png
 description: "啟用 GPS 定位功能，並搜尋方圓三公里內之 ATM 位置。"
 featured: true
 hidden: true
