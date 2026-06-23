@@ -17,7 +17,7 @@ rating: 5
 歡迎使用 ATM 地圖快速導航工具！請點擊下方按鈕或快捷鍵，將會自動鎖定您目前位置**方圓 3 公里內**的據點。
 
 ### 🏦 依銀行查詢
-| 銀行名稱 | 快速尋找連結（自動鎖定方圓 3 公里） |
+| 銀行名稱 | 快速尋找連結 |
 | **中國信託** | [![搜尋](https://img.shields.io/badge/📍_點我搜尋-中國信託_ATM-059669?style=for-the-badge)](https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9C%8B%E4%BF%A1%E8%A8%92+ATM&zoom=14) |
 | **國泰世華** | [![搜尋](https://img.shields.io/badge/📍_點我搜尋-國泰世華_ATM-0284c7?style=for-the-badge)](https://www.google.com/maps/search/?api=1&query=%E5%9C%8B%E6%B3%B0%E4%B8%96%E8%8F%AF+ATM&zoom=14) |
 | **台新銀行** | [![搜尋](https://img.shields.io/badge/📍_點我搜尋-台新銀行_ATM-dc2626?style=for-the-badge)](https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E6%96%B0%E9%8A%80%E8%A1%8C+ATM&zoom=14) |
